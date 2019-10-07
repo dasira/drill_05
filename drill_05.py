@@ -29,6 +29,7 @@ def move_char(p1, p2):
             character.clip_draw(frame * 100, 100 * 1, 100, 100, x, y)
         else:
             character.clip_draw(frame * 100, 0, 100, 100, x, y)
+
     pass
 
 
